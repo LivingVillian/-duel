@@ -1,0 +1,9 @@
+name: GameModeSelector
+main: server.plugin.command.GameModeSelectorPlugin
+version: 1.0
+api-version: 1.16
+commands:
+  selectmode:
+    description: Opens the mode selection menu.
+  leaderboard:
+    description: Displays the top kills leaderboard.
